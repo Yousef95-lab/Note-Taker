@@ -9,13 +9,13 @@
       5. Questions 
 
     ## Instructions
-    In order for the user to access the application they must log into their terminal: 'node server.js' to begin the process. Next they will be prompted with a series of questions that they must answer. After answering the questions the HTML page will be generated automatically. 
+    User can  use this app deployed on Heroku: https://note-taker17.herokuapp.com/notes 
 
     ## User Story
-    As a manager I would like to generate a webpage that displays my team's basic info so that I have quick access to their information.
+    As a user I would like to take notes and save them for refrence later
 
     ## Credits
-    JavaScript and Node
+    JavaScript, Node, Express
 
     ## License
     MIT License
